@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230190
+# Name: Mughal Rayhan
+# Date: 31.07.26
 
 
 # AIM:
@@ -23,6 +23,9 @@ UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
+<img width="1492" height="2232" alt="usecase2 drawio" src="https://github.com/user-attachments/assets/103824c0-4aee-40c4-adbd-83c327cca5d6" />
+
+
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
@@ -42,9 +45,11 @@ Specifying the context and requirements of a system
 
 
 
-
-
 # CLASS DIAGRAM
+
+<img width="742" height="992" alt="classdiagram2" src="https://github.com/user-attachments/assets/36acb596-1785-4af1-a67e-a35e3bca6882" />
+
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -62,6 +67,12 @@ Create detailed charts that…
 
 # COMMUNICTION DIAGRAM:
 
+
+<img width="1130" height="770" alt="Communicationdiagram2 drawio" src="https://github.com/user-attachments/assets/78246ea9-1fb8-4e19-ac4a-2a3b8cfa446a" />
+
+
+
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
@@ -70,6 +81,11 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+
+
+<img width="967" height="615" alt="packagediagram2" src="https://github.com/user-attachments/assets/606d1810-8ea5-4fef-999f-b851ef20a95b" />
+
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -86,6 +102,10 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
+
+<img width="640" height="934" alt="Activity Diagram2 drawio" src="https://github.com/user-attachments/assets/7f830aa7-62c3-44cd-b21e-1a511def6fc5" />
+
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -101,6 +121,10 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+
+<img width="1040" height="760" alt="Sequencediagram2 drawio" src="https://github.com/user-attachments/assets/bba81dac-92bb-42c1-ab03-a3098a19225d" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
